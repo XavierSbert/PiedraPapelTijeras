@@ -8,6 +8,8 @@ class PiedraPapelTijeras
         int R = 0;
         int P = 1;
         int S = 2;
+        int L = 3;
+        int K = 4;
 
 
         int u;
