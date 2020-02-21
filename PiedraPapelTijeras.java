@@ -19,6 +19,8 @@ class PiedraPapelTijeras
         System.out.println("0. Piedra");
         System.out.println("1. Papel");
         System.out.println("2. Tijeras");
+        System.out.println("3. Lagarto");
+        System.out.println("4. Spock");
 
         u = myScan.nextInt();
 
