@@ -38,7 +38,7 @@ class PiedraPapelTijeras
         }
         else
         {
-            System.out.println("Loser!");
+            System.out.println("Perdedor!");
         }
     }
 }
